@@ -7,7 +7,7 @@ title: Call for Papers
 
 <table>
   <tbody>
-    <tr style="background-color:#0F0F0F; color:#F4F4F4">
+    <tr style="background-color:#18191a; color:#F4F4F4">
       <td>Paper Submission Deadline</td>
       <td>20th June 2024</td>
     </tr>
@@ -15,7 +15,7 @@ title: Call for Papers
       <td>Notification to authors</td>
       <td>8th August 2024</td>
     </tr>
-    <tr style="background-color:#0F0F0F; color:#F4F4F4">
+    <tr style="background-color:#18191a; color:#F4F4F4">
       <td>Camera-ready versions</td>
       <td>5th September 2024</td>
     </tr>
@@ -38,7 +38,8 @@ Strongly encouraged are proposals of new, speculative ideas, metrics, tools, and
 
 {: style="text-align: justify"}
 Topics can include but are not limited to:
-**Software attacks and defenses techniques:**
+{: style="text-align: justify"}
+_Software attacks and defenses techniques:_
 - Code Obfuscation and De-obfuscation
 - Anti-Debugging and Anti-Simulation
 - Software Diversity, Renewability, and Moving Target Defenses
@@ -57,7 +58,7 @@ Topics can include but are not limited to:
 - Formal methods for modeling security attacks and defenses
 
 {: style="text-align: justify"}
-**Software Security Evaluation, Decision Support and Industrial Aspects:**
+_Software Security Evaluation, Decision Support and Industrial Aspects:_
 - Evaluation Methodologies
 - Threat Modeling
 - Decision Support Systems and Security Optimization
