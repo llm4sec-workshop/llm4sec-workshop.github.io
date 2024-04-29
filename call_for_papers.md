@@ -11,7 +11,7 @@ title: Call for Papers
       <td>Paper Submission Deadline</td>
       <td>20th June 2024</td>
     </tr>
-    <tr style="background-color:#010b13; color:#F4F4F4">
+    <tr style="background-color:#242526; color:#F4F4F4">
       <td>Notification to authors</td>
       <td>8th August 2024</td>
     </tr>
@@ -24,6 +24,8 @@ title: Call for Papers
 
 {: style="text-align: justify"}
 *Note*: _all deadlines are Anywhere On Earth (AOE) time_
+{: style="text-align: justify"}
+Submission site: TBA
 
 MATE (Man-At-The-End) is an attacker model where an adversary has access to the target software and/or hardware environment of his victim and the ability to observe and modify it in order to extract secrets such as cryptographic keys or sensitive information, possibly with the subsequent goal of compromising code integrity or inserting backdoors, among others. A typical example of such a scenario is the case of an attack on a stolen smartphone or against software leveraging protection to offer premium content and/or features such as paid TV channels. 
 
@@ -70,11 +72,16 @@ _Software Security Evaluation, Decision Support and Industrial Aspects:_
 
 ## Submission guidelines
 {: style="text-align: justify"}
-Submission Guidelines 
-Papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with refereed proceedings.
-Submissions must be at most 8 pages in ACM Conference Format excluding bibliography and well-marked appendices. 
-One of the authors of the accepted paper is expected to present the paper at the workshop.
+- Papers must be submitted in a form suitable for anonymous review.
+- Papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with refereed proceedings.
+- Submissions must be a PDF file in double-column ACM format (see https://www.acm.org/publications/proceedings-template, with a simpler version at https://github.com/acmccs/format).
+- Sumibssions may not exceed 12 pages long or 6 pages for short papers, excluding the bibliography, well-marked appendices, and supplementary material. Submissions are not required to reach the page limit. Note that reviewers are not required to read the appendices or any supplementary material. Authors should not change the font or the margins of the ACM format. Submissions not following the required format may be rejected without review.
+- One of the authors of the accepted paper is expected to present the paper in person at the workshop.
 
+## Ethical considerations
 {: style="text-align: justify"}
-Submission site: TBA
+Submissions that describe experiments on human subjects, that analyze data derived from human subjects (even anonymized data), or that otherwise may put humans at risk should:
+- Disclose whether the research received an approval or waiver from each of the authors’ institutional ethics review boards (IRB) if applicable.
+- Discuss steps taken to ensure that participants and others who might have been affected by an experiment were treated ethically and with respect.
+- If a submission deals with any kind of personal identifiable information (PII) or other kinds of sensitive data, the version of the paper submitted for review must discuss in detail the steps the authors have taken to mitigate harms to the persons identified. If a paper raises significant ethical and/or legal concerns, it might be rejected based on these concerns. The CheckMATE workshop chairs will be happy to consult with authors about how this policy applies to their submissions
 
