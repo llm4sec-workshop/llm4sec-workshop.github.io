@@ -154,15 +154,15 @@ keywords: "checkmate,ccs,security,attacks,software protection,conference,worksho
 
 page-col: "#18191a"
 text-col: "#e4e6eb"
-link-col: "#63d297"
-hover-col: "#029647"
+link-col: "#21aa61"
+hover-col: "#013d1d"
 navbar-col: "#242526"
 navbar-text-col: "#e4e6eb"
 navbar-border-col: "#393a3b"
 footer-col: "#242526"
 footer-text-col: "#AAAAAA"
 footer-link-col: "#DFDFDF"
-footer-hover-col: "#029647"
+footer-hover-col: "#013d1d"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
