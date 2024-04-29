@@ -74,7 +74,7 @@ _Software Security Evaluation, Decision Support and Industrial Aspects:_
 {: style="text-align: justify"}
 - Papers must be submitted in a form suitable for anonymous review.
 - Papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with refereed proceedings.
-- Submissions must be a PDF file in double-column ACM format (see https://www.acm.org/publications/proceedings-template, with a simpler version at https://github.com/acmccs/format).
+- Submissions must be a PDF file in double-column ACM format (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template), with a simpler version at [https://github.com/acmccs/format](https://www.acm.org/publications/proceedings-template)).
 - Sumibssions may not exceed 12 pages long or 6 pages for short papers, excluding the bibliography, well-marked appendices, and supplementary material. Submissions are not required to reach the page limit. Note that reviewers are not required to read the appendices or any supplementary material. Authors should not change the font or the margins of the ACM format. Submissions not following the required format may be rejected without review.
 - One of the authors of the accepted paper is expected to present the paper in person at the workshop.
 
