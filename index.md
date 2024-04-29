@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![logo](assets/img/logo.png){:class="img-responsive"}
+![logo](assets/img/logo.png){:class="img-responsive"; display:block; margin-right:auto; margin-left:auto;}
 
 <!--
 {: style="text-align: center"}
