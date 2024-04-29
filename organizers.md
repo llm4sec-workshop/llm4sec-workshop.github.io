@@ -5,8 +5,8 @@ title: Organizers
 
 ## Chairs
 
-- *General Chair*: Sebastian Schrittwieser, _Faculty of Computer Science, University of Vienna_
-- *Program Chair*: Michele Ianni, _University of Calabria, Italy_
+- **General Chair**: Sebastian Schrittwieser, _Faculty of Computer Science, University of Vienna_
+- **Program Chair**: Michele Ianni, _University of Calabria, Italy_
 
 ## Steering Committee
 
