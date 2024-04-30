@@ -28,7 +28,7 @@ title: Call for Papers
 Submission site: TBA
 
 {: style="text-align: justify"}
-Extended versions of selected papers will also be invited to the [Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks](Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks) of the [ACM Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap) journal.
+Extended versions of selected papers will be invited to the [Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks](Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks) of the [ACM Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap) journal.
 
 MATE (Man-At-The-End) is an attacker model where an adversary has access to the target software and/or hardware environment of his victim and the ability to observe and modify it in order to extract secrets such as cryptographic keys or sensitive information, possibly with the subsequent goal of compromising code integrity or inserting backdoors, among others. A typical example of such a scenario is the case of an attack on a stolen smartphone or against software leveraging protection to offer premium content and/or features such as paid TV channels. 
 
