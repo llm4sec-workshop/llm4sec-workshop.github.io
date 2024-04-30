@@ -18,7 +18,7 @@ title: Organizers
 - Jack Davidson, _University of Virginia, USA_
 - Bjorn De Sutter, _Ghent University, Belgium_
 - Paolo Falcarin, _Ca' Foscari University of Venice, Italy_
-- Roberto Giacobazzi, _Università di Verona, Italy_
+- Roberto Giacobazzi, _University of Arizona, USA_
 - Yuan Gu, _IRDETO, Canada_
 - Christophe Hauser, _Information Sciences Institute, University of Southern California_
 - Yonghwi Kwon, _University of Virginia, USA_
