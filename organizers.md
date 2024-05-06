@@ -5,7 +5,7 @@ title: Organizers
 
 ## Chairs
 
-- **General Chair**: Sebastian Schrittwieser, _Faculty of Computer Science, University of Vienna_
+- **General Chair**: [Sebastian Schrittwieser](https://www.sba-research.org/team/sebastian-schrittwieser/){:target="_blank"}, _Faculty of Computer Science, University of Vienna_
 - **Program Chair**: [Michele Ianni](https://iannim.github.io){:target="_blank"}, _University of Calabria, Italy_
 
 ## Steering Committee
