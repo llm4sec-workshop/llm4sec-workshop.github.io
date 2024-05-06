@@ -17,7 +17,7 @@ title: Call for Papers
     </tr>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>Camera-ready versions</td>
-      <td>5th September 2024</td>
+      <td>25th August 2024</td>
     </tr>
   </tbody>
 </table>
