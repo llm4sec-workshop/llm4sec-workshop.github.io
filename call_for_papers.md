@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call for Papers
+share-description: CheckMATE Workshop @ ACM CCS 2024
 ---
 
 ## Important Dates
