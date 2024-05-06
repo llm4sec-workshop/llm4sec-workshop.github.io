@@ -28,7 +28,7 @@ title: Call for Papers
 Submission site: TBA
 
 {: style="text-align: justify"}
-Extended versions of selected papers will be invited to the [Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks]([Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks](https://dl.acm.org/pb-assets/static_journal_pages/dtrap/pdf/ACM-DTRAP-SIODTCMATEA-1708637350820.pdf) of the [ACM Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap) journal.
+Extended versions of selected papers will be invited to the [Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks]([Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks](https://dl.acm.org/pb-assets/static_journal_pages/dtrap/pdf/ACM-DTRAP-SIODTCMATEA-1708637350820.pdf){:target="_blank"} of the [ACM Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap){:target="_blank"} journal.
 
 MATE (Man-At-The-End) is an attacker model where an adversary has access to the target software and/or hardware environment of his victim and the ability to observe and modify it in order to extract secrets such as cryptographic keys or sensitive information, possibly with the subsequent goal of compromising code integrity or inserting backdoors, among others. A typical example of such a scenario is the case of an attack on a stolen smartphone or against software leveraging protection to offer premium content and/or features such as paid TV channels. 
 
@@ -77,7 +77,7 @@ _Software Security Evaluation, Decision Support and Industrial Aspects:_
 {: style="text-align: justify"}
 - Papers must be submitted in a form suitable for anonymous review.
 - Papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with refereed proceedings.
-- Submissions must be a PDF file in double-column ACM format (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template), with a simpler version at [https://github.com/acmccs/format](https://www.acm.org/publications/proceedings-template)).
+- Submissions must be a PDF file in double-column ACM format (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template){:target="_blank"}, with a simpler version at [https://github.com/acmccs/format](https://www.acm.org/publications/proceedings-template){:target="_blank"}).
 - Submissions may not exceed 12 pages long or 6 pages for short papers, excluding the bibliography, well-marked appendices, and supplementary material. Submissions are not required to reach the page limit. Note that reviewers are not required to read the appendices or any supplementary material. Authors should not change the font or the margins of the ACM format. Submissions not following the required format may be rejected without review.
 - One of the authors of the accepted paper is expected to present the paper in person at the workshop.
 
@@ -87,4 +87,3 @@ Submissions that describe experiments on human subjects, that analyze data deriv
 - Disclose whether the research received an approval or waiver from each of the authors’ institutional ethics review boards (IRB) if applicable.
 - Discuss steps taken to ensure that participants and others who might have been affected by an experiment were treated ethically and with respect.
 - If a submission deals with any kind of personal identifiable information (PII) or other kinds of sensitive data, the version of the paper submitted for review must discuss in detail the steps the authors have taken to mitigate harms to the persons identified. If a paper raises significant ethical and/or legal concerns, it might be rejected based on these concerns. The CheckMATE workshop chairs will be happy to consult with authors about how this policy applies to their submissions
-
