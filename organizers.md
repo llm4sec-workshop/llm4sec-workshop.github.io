@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Organizers
+share-description: CheckMATE Workshop @ ACM CCS 2024
 ---
 
 ## Chairs
