@@ -26,7 +26,7 @@ share-description: CheckMATE Workshop @ ACM CCS 2024
 {: style="text-align: justify"}
 *Note*: _all deadlines are Anywhere On Earth (AOE) time_
 {: style="text-align: justify"}
-Submission site: [https://checkmate24.hotcrp.com/](https://checkmate24.hotcrp.com/)
+Submission site: [https://checkmate24.hotcrp.com/](https://checkmate24.hotcrp.com/){:target="_blank"}
 
 {: style="text-align: justify"}
 Extended versions of selected papers will be invited to the [Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks]([Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks](https://dl.acm.org/pb-assets/static_journal_pages/dtrap/pdf/ACM-DTRAP-SIODTCMATEA-1708637350820.pdf){:target="_blank"} of the [ACM Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap){:target="_blank"} journal.
