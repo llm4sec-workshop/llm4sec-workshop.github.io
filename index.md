@@ -17,7 +17,7 @@ share-description: CheckMATE Workshop @ ACM CCS 2024
 {: style="text-align: justify"}
 The CheckMATE workshop will be co-located with the [ACM Conference on Computer and Communications Security (CCS) 2024](https://www.sigsac.org/ccs/CCS2024/){:target="_blank"}
 
-{: style="text-align: justify"}
+{: style="text-align: center"}
 **October 18, 2024 Salt Lake City, U.S.A.**
 
 {: style="text-align: justify"}
