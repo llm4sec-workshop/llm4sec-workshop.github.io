@@ -18,7 +18,7 @@ share-description: CheckMATE Workshop @ ACM CCS 2024
 The CheckMATE workshop will be co-located with the [ACM Conference on Computer and Communications Security (CCS) 2024](https://www.sigsac.org/ccs/CCS2024/){:target="_blank"}
 
 {: style="text-align: center"}
-**October 18, 2024 Salt Lake City, U.S.A.**
+**October 18, 2024 - Salt Lake City, U.S.A.**
 
 {: style="text-align: justify"}
 MATE (Man-At-The-End) is an attacker model where an adversary has access to the target software and/or hardware environment of his victim and the ability to observe and modify it in order to extract sensitive information or secrets. This information could include cryptographic keys, configuration information, etc. Possible goals of an attack might include compromising code integrity, inserting backdoors, among many others. Typical examples of such scenarios are an attack on a stolen smartphone or against software leveraging protection to offer premium content and/or features such as paid TV channels.
