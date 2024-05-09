@@ -1,6 +1,6 @@
 ---
 layout: page
-share-description: CheckMATE Workshop @ ACM CCS 2024
+share-description: CheckMATE 2024 Workshop @ ACM CCS
 ---
 
 {:style="text-align:center;"}
