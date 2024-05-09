@@ -14,8 +14,9 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
 ## Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks
 -->
 
-{: style="text-align: justify"}
-The CheckMATE workshop will be co-located with the [ACM Conference on Computer and Communications Security (CCS) 2024](https://www.sigsac.org/ccs/CCS2024/){:target="_blank"}
+{: style="text-align: center"}
+The CheckMATE workshop will be co-located with the\
+ [ACM Conference on Computer and Communications Security (CCS) 2024](https://www.sigsac.org/ccs/CCS2024/){:target="_blank"}
 
 {: style="text-align: center"}
 **October 18, 2024 - Salt Lake City, U.S.A.**
