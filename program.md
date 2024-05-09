@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-share-description: CheckMATE Workshop @ ACM CCS 2024
+share-description: CheckMATE 2024 Workshop @ ACM CCS
 ---
 
 ## TBA
