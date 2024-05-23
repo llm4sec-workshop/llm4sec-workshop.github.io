@@ -21,7 +21,7 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
 - Paolo Falcarin, _Ca' Foscari University of Venice, Italy_
 - Roberto Giacobazzi, _University of Arizona, USA_
 - Yuan Gu, _IRDETO, Canada_
-- Christophe Hauser, _Information Sciences Institute, University of Southern California_
+- Christophe Hauser, _Dartmouth College, USA_
 - Yonghwi Kwon, _University of Virginia, USA_
 - Arun Lakhotia, _University of Louisiana, USA_
 - Todd McDonald, _University of South Alabama, USA_
