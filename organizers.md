@@ -6,7 +6,7 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
 
 ## Chairs
 
-- **General Chair**: [Sebastian Schrittwieser](https://www.sba-research.org/team/sebastian-schrittwieser/){:target="_blank"}, _Faculty of Computer Science, University of Vienna_
+- **General Chair**: [Sebastian Schrittwieser](https://www.sba-research.org/team/sebastian-schrittwieser/){:target="_blank"}, _Faculty of Computer Science, University of Vienna, Austria_
 - **Program Chair**: [Michele Ianni](https://iannim.github.io){:target="_blank"}, _University of Calabria, Italy_
 
 ## Steering Committee
@@ -25,7 +25,7 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
 - Yonghwi Kwon, _University of Virginia, USA_
 - Arun Lakhotia, _University of Louisiana, USA_
 - Todd McDonald, _University of South Alabama, USA_
-- Golden G. Richard III, _Louisiana State University_
+- Golden G. Richard III, _Louisiana State University, USA_
 - Natalia Stakhanova, _University of Saskatchewan, Canada_
 - Brecht Wyseur, _Kudelski IoT Security, Switzerland_
 
