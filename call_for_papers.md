@@ -10,7 +10,7 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS4
   <tbody>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>Paper Submission Deadline</td>
-      <td><s>20th June 2024</s>12th July 2024</td>
+      <td><s>20th June 2024</s> 12th July 2024</td>
     </tr>
     <tr style="background-color:#242526; color:#F4F4F4">
       <td>Notification to authors</td>
