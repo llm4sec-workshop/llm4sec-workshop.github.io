@@ -31,4 +31,16 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
 
 
 ## Program Committee
-TBA
+
+- Mohse	Ahmadvand, _Quantstamp_
+- Guillaume Bonfante, _Université de Lorraine, France_
+- Mariano Ceccato, _University of Verona, Italy_
+- Christoph Csallner, _University of Texas at Arlington, USA_
+- Peter	Garba, _Thales Group_
+- Claudia Greco, _University of Calabria, Italy_
+- Peter	Kieseberg, _St. Pölten University of Applied Sciences, Austria_
+- Caroline Lawitschka, _University of Vienna, Austria_
+- Jean-Yves Marion, _Université de Lorraine, France_
+- Mizuhito Ogawa, _Japan Advanced Institute of Science and Technology, Japan_
+- Moritz Schloegel, _Ruhr-Universitaet Bochum, Germany_
+- Janaka Senanayake, _Robert Gordon University, UK_
