@@ -39,6 +39,7 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
 - Peter	Garba, _Thales Group_
 - Claudia Greco, _University of Calabria, Italy_
 - Peter	Kieseberg, _St. Pölten University of Applied Sciences, Austria_
+- Patrick	Kochberger, _St. Pölten University of Applied Sciences, Austria_
 - Caroline Lawitschka, _University of Vienna, Austria_
 - Jean-Yves Marion, _Université de Lorraine, France_
 - Mizuhito Ogawa, _Japan Advanced Institute of Science and Technology, Japan_
