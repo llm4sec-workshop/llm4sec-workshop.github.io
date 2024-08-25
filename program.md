@@ -14,4 +14,4 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
 - _Sebastián R. Castro, Alvaro Cardenas_ - Ghost in the SAM: Stealthy, Robust, and Privileged Persistence through Invisible Accounts
 
 ### Short Papers
-- _Thomas Faingnaert, Wilem Van Iseghem, Bjorn De Sutter_ - K-Hunt++: Improved Dynamic Cryptographic Key Extraction
+- _Thomas Faingnaert, Willem Van Iseghem, Bjorn De Sutter_ - K-Hunt++: Improved Dynamic Cryptographic Key Extraction
