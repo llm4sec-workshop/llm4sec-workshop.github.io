@@ -17,13 +17,11 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
 - _Thomas Faingnaert, Willem Van Iseghem, Bjorn De Sutter_ - K-Hunt++: Improved Dynamic Cryptographic Key Extraction
 
 ## Program
-## Tentative program
-### Day 2 (Sept. 29) - Room 1.6
 <table>
   <tbody>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>9:00 - 9:15</td>
-      <td>Morning Session 1 - Welcome Message (15min)</td>
+      <td>Morning Session 1 - Welcome Message</td>
     </tr>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>9:15 - 9:35</td>
@@ -38,7 +36,7 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
       <td>K-Hunt++: Improved Dynamic Cryptographic Key Extraction (short)</td>
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
-      <td>10:10 - 10:30</td>
+      <td>10:10 - 11:00</td>
       <td>Coffee Break</td>
     </tr>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
@@ -55,7 +53,7 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>12:00 - 12:10</td>
-      <td>Closing Remarks (10min)</td>
+      <td>Closing Remarks</td>
     </tr>
   </tbody>
 </table>
