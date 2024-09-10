@@ -15,3 +15,48 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
 
 ### Short Papers
 - _Thomas Faingnaert, Willem Van Iseghem, Bjorn De Sutter_ - K-Hunt++: Improved Dynamic Cryptographic Key Extraction
+
+## Program
+## Tentative program
+### Day 2 (Sept. 29) - Room 1.6
+<table>
+  <tbody>
+    <tr style="background-color:#010b13; color:#F4F4F4">
+      <td>9:00 - 9:15</td>
+      <td>Morning Session 1 - Welcome Message (15min)</td>
+    </tr>
+    <tr style="background-color:#0F0F0F; color:#F4F4F4">
+      <td>9:15 - 9:35</td>
+      <td>Register Expansion and SemaCall: 2 low-overhead dynamic Watermarks suitable for Automation in LLVM</td>
+    </tr>
+    <tr style="background-color:#010b13; color:#F4F4F4">
+      <td>9:35 - 9:55</td>
+      <td>IlluminaTEE: Effective Man-At-The-End Attacks from within ARM TrustZone</td>
+    </tr>
+    <tr style="background-color:#0F0F0F; color:#F4F4F4">
+      <td>9:55 - 10:10</td>
+      <td>K-Hunt++: Improved Dynamic Cryptographic Key Extraction (short)</td>
+    </tr>
+    <tr style="background-color:#010b13; color:#F4F4F4">
+      <td>10:10 - 10:30</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr style="background-color:#0F0F0F; color:#F4F4F4">
+      <td>11:00 - 11:20</td>
+      <td>Anti-Cheat: Attacks and the Effectiveness of Client-Side Defences</td>
+    </tr>
+    <tr style="background-color:#010b13; color:#F4F4F4">
+      <td>11:20 - 11:40</td>
+      <td>Tools and Models for Software Reverse Engineering Research</td>
+    </tr>
+    <tr style="background-color:#0F0F0F; color:#F4F4F4">
+      <td>11:40 - 12:00</td>
+      <td>Ghost in the SAM: Stealthy, Robust, and Privileged Persistence through Invisible Accounts</td>
+    </tr>
+    <tr style="background-color:#010b13; color:#F4F4F4">
+      <td>12:00 - 12:10</td>
+      <td>Closing Remarks (10min)</td>
+    </tr>
+  </tbody>
+</table>
+
