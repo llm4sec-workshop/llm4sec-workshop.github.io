@@ -21,11 +21,11 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
   <tbody>
    <tr style="background-color:#242526; color:#F4F4F4">
       <td>9:00</td>
-      <td>Morning Session 1</td>
+      <td><b>Morning Session 1</b></td>
     </tr>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>9:00 - 9:15</td>
-      <td>Morning Session 1 - Welcome Message</td>
+      <td><i>Welcome Message</i></td>
     </tr>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>9:15 - 9:35</td>
@@ -41,11 +41,11 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
     </tr>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>10:10 - 11:00</td>
-      <td>Coffee Break</td>
+      <td><i>Coffee Break</i></td>
     </tr>
     <tr style="background-color:#242526; color:#F4F4F4">
       <td>11:00</td>
-      <td>Morning Session 2</td>
+      <td><b>Morning Session 2</b></td>
     </tr>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>11:00 - 11:20</td>
@@ -61,7 +61,7 @@ share-description: CheckMATE 2024 Workshop @ ACM CCS
     </tr>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>12:00 - 12:10</td>
-      <td>Closing Remarks</td>
+      <td><i>Closing Remarks</i></td>
     </tr>
   </tbody>
 </table>
