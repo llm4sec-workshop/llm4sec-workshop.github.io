@@ -40,7 +40,7 @@ navbar-links:
 collections:
   2024:
     output: true
-    permalink: /2024/:path/
+    permalink: "/2024/:path/"
 
 ################
 # --- Logo --- #
