@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Papers
-share-description: CheckMATE 2025 Workshop @ ACM CCS
+share-description: CheckMATE 2024 Workshop @ ACM CCS
 ---
 
 ## Important Dates
@@ -10,15 +10,15 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
   <tbody>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>Paper Submission Deadline</td>
-      <td>20th June 2025</td>
+      <td><s>20th June 2024</s> 12th July 2024</td>
     </tr>
     <tr style="background-color:#242526; color:#F4F4F4">
       <td>Notification to authors</td>
-      <td>8th August 2025</td>
+      <td>8th August 2024</td>
     </tr>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>Camera-ready versions</td>
-      <td>22nd August 2025</td>
+      <td>25th August 2024</td>
     </tr>
   </tbody>
 </table>
@@ -26,10 +26,10 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 {: style="text-align: justify"}
 *Note*: _all deadlines are Anywhere On Earth (AOE) time_
 {: style="text-align: justify"}
-Submission site: [https://checkmate25.hotcrp.com/](https://checkmate25.hotcrp.com/){:target="_blank"}
+Submission site: [https://checkmate24.hotcrp.com/](https://checkmate24.hotcrp.com/){:target="_blank"}
 
-# {: style="text-align: justify"}
-# Extended versions of selected papers will be invited to the [Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks](https://dl.acm.org/pb-assets/static_journal_pag#es/dtrap/pdf/ACM-DTRAP-SIODTCMATEA-1708637350820.pdf){:target="_blank"} of the [ACM Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap){:target="_blank"} journal.
+{: style="text-align: justify"}
+Extended versions of selected papers will be invited to the [Special Issue on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks](https://dl.acm.org/pb-assets/static_journal_pages/dtrap/pdf/ACM-DTRAP-SIODTCMATEA-1708637350820.pdf){:target="_blank"} of the [ACM Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap){:target="_blank"} journal.
 
 MATE (Man-At-The-End) is an attacker model where an adversary has access to the target software and/or hardware environment of his victim and the ability to observe and modify it in order to extract secrets such as cryptographic keys or sensitive information, possibly with the subsequent goal of compromising code integrity or inserting backdoors, among others. A typical example of such a scenario is the case of an attack on a stolen smartphone or against software leveraging protection to offer premium content and/or features such as paid TV channels. 
 
