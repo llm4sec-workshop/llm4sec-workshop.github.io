@@ -1,10 +1,8 @@
 ---
 layout: page
-title: History
+title: CheckMATE History
 share-description: CheckMATE 2025 Workshop @ ACM CCS
 ---
-
-## History of CheckMATE
 
 **CheckMATE** is the continuation and merger of workshops focused on **software security**, **software protection**, and **reverse engineering**. Below is a chronological view of how it evolved.
 
