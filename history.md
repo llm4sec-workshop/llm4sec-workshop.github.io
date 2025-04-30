@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CheckMATE History
+title: History
 share-description: CheckMATE 2025 Workshop @ ACM CCS
 ---
 
@@ -28,8 +28,8 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 
 - **SPRO** (International Workshop on Software Protection)  
   - [SPRO 2015](https://spro.aspire-fp7.eu/spro2015/), co-located with ICSE
-  - [SPRO 2016](https://spro.aspire-fp7.eu/spro2016/), co-located with CCS  
-  - [SPRO 2019](https://spro.aspire-fp7.eu), co-located with CCS
+  - [SPRO 2016](https://spro.aspire-fp7.eu/spro2016/), co-located with ACM CCS  
+  - [SPRO 2019](https://spro.aspire-fp7.eu), co-located with ACM CCS
 
 ---
 
@@ -42,7 +42,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 
 ### 2021–Present: CheckMATE (Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks)
 
-- [CheckMATE 2021](https://checkmate.isi.edu/), co-located with CCS
-- [CheckMATE 2022](https://www.cct.lsu.edu/~checkmate/), co-located with CCS
-- [CheckMATE 2024](https://checkmate-workshop.github.io/2024), co-located with CCS
+- [CheckMATE 2021](https://checkmate.isi.edu/), co-located with ACM CCS
+- [CheckMATE 2022](https://www.cct.lsu.edu/~checkmate/), co-located with ACM CCS
+- [CheckMATE 2024](https://checkmate-workshop.github.io/2024), co-located with ACM CCS
 
