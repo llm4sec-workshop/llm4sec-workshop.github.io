@@ -34,10 +34,10 @@ author: CheckMATE Workshop
 #  Author's home: "https://deanattali.com"
 
 navbar-links:
-  Overview: "{{ site.baseurl }}/index"
-  Program: "{{ site.baseurl }}/program"
-  Call for Papers: "{{ site.baseurl }}/call_for_papers"
-  Organizers: "{{ site.baseurl }}/organizers"
+  Overview: "index"
+  Program: "program"
+  Call for Papers: "call_for_papers"
+  Organizers: "organizers"
 
 ################
 # --- Logo --- #
