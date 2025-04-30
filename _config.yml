@@ -33,14 +33,6 @@ navbar-links:
   Call for Papers: "call_for_papers"
   Organizers: "organizers"
 
-#############################
-# --- Previous editions --- #
-#############################
-
-collections:
-  2024:
-    output: true
-
 ################
 # --- Logo --- #
 ################
