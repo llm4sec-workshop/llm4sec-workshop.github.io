@@ -16,7 +16,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 
 {: style="text-align: center"}
 The CheckMATE workshop will be co-located with the\
- [ACM Conference on Computer and Communications Security (CCS) 2025](https://www.sigsac.org/ccs/CCS2024/){:target="_blank"}
+ [ACM Conference on Computer and Communications Security (CCS) 2025](https://www.sigsac.org/ccs/CCS2025/){:target="_blank"}
 
 {: style="text-align: center"}
 **October 17, 2025 - Taipei, Taiwan**
