@@ -12,7 +12,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 
 ## Steering Committee
 
-- Sebastian Bardin, _CEA LIST, France_
+- Sébastian Bardin, _CEA LIST, France_
 - Christian Collberg, _University of Arizona, USA_
 - Mila Dalla Preda, _University of Verona, Italy_
 - Jack Davidson, _University of Virginia, USA_
