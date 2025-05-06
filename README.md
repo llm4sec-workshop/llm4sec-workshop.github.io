@@ -1,1 +1,1 @@
-CheckMATE workshop @ ACM CCS 2024
+CheckMATE workshop @ ACM CCS 2025
