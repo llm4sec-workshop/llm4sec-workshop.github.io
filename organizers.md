@@ -6,13 +6,13 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 
 ## Chairs
 
-- [Sébastian Bardin](http://sebastien.bardin.free.fr/){:target="_blank"}, _CEA LIST, France_
+- [Sébastien Bardin](http://sebastien.bardin.free.fr/){:target="_blank"}, _CEA LIST, France_
 - [Michele Ianni](https://iannim.github.io){:target="_blank"}, _University of Calabria, Italy_
 - [Hyungon Moon](https://hyungon-moon.github.io/){:target="_blank"}, _UNIST, South Korea_
 
 ## Steering Committee
 
-- Sébastian Bardin, _CEA LIST, France_
+- Sébastien Bardin, _CEA LIST, France_
 - Christian Collberg, _University of Arizona, USA_
 - Mila Dalla Preda, _University of Verona, Italy_
 - Jack Davidson, _University of Virginia, USA_
