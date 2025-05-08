@@ -37,13 +37,13 @@ share-description: LLM4Sec Workshop
 - Yu-Yang Liu, Peking University, China
 - Thibaud Lutellier, University of Alberta, Canada
 - Wojciech Mazurczyk, Warsaw University of Technology, Poland
-- Paarth Neekhara, Nvidia 
+- Paarth Neekhara, Nvidia, USA
 - Antonino Nocera, University of Pavia, Italy
 - Sudipta Paria, University of Florida, USA
 - Jiaxing Qi, Beihang University, China
 - Rajat Sadhukhan, Indian Institute of Roorkee, India
 - P.V. Sai Charan, New York University, USA
-- Shehzeen Samarah Hussain, Nvidia 
+- Shehzeen Samarah Hussain, Nvidia, USA
 - Gustavo Sandoval, New York University, USA
 - Edoardo Serra, Boise State University, USA
 - Francesca Spezzano, Boise State University, USA
