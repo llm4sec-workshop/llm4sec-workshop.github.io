@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: CheckMATE 2025 - Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks @ ACM CCS
+title: LLM4Sec - Workshop on the use of Large Language Models for Cybersecurity @ICDM 2025
 
 # Your name to show in the footer
-author: CheckMATE Workshop
+author: LLM4Sec Workshop
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -27,8 +27,8 @@ author: CheckMATE Workshop
 #  Author's home: "https://deanattali.com"
 
 navbar-links:
-  Overview: "index"
-  History: "history"
+  Home: "index"
+  #History: "history"
   Program: "program"
   Call for Papers: "call_for_papers"
   Organizers: "organizers"
@@ -46,7 +46,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/checkmate.png
+# title-img: /assets/img/checkmate.png
 
 
 #####################################
@@ -57,8 +57,8 @@ title-img: /assets/img/checkmate.png
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "checkmate-workshop@proton.me"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "antonino.rullo@icar.cnr.it"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
@@ -92,7 +92,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: CheckMATE Workshop @ ACM CCS 2025
+rss-description: LLM4Sec Workshop @ ICDM 2025
 
 ###########################
 # --- General options --- #
@@ -133,7 +133,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "checkmate,ccs,security,attacks,software protection,conference,workshop"
+keywords: "llm,large language models,security,icdm,attacks,conference,workshop"
 
 ######################################
 # --- Colours / background image --- #
@@ -141,29 +141,29 @@ keywords: "checkmate,ccs,security,attacks,software protection,conference,worksho
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-#page-col: "#FFFFFF"
-#text-col: "#404040"
-#link-col: "#008AFF"
-#hover-col: "#0085A1"
-#navbar-col: "#EAEAEA"
-#navbar-text-col: "#404040"
-#navbar-border-col: "#DDDDDD"
-#footer-col: "#EAEAEA"
-#footer-text-col: "#777777"
-#footer-link-col: "#404040"
-#footer-hover-col: "#0085A1"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
-page-col: "#18191a"
-text-col: "#e4e6eb"
-link-col: "#21aa61"
-hover-col: "#fff176"
-navbar-col: "#242526"
-navbar-text-col: "#e4e6eb"
-navbar-border-col: "#393a3b"
-footer-col: "#242526"
-footer-text-col: "#AAAAAA"
-footer-link-col: "#DFDFDF"
-footer-hover-col: "#fff176"
+#page-col: "#18191a"
+#text-col: "#e4e6eb"
+#link-col: "#21aa61"
+#hover-col: "#fff176"
+#navbar-col: "#242526"
+#navbar-text-col: "#e4e6eb"
+#navbar-border-col: "#393a3b"
+#footer-col: "#242526"
+#footer-text-col: "#AAAAAA"
+#footer-link-col: "#DFDFDF"
+#footer-hover-col: "#fff176"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
