@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Papers
-share-description: LLM4Sec Workshop @ ICDM
+share-description: LLM4Sec Workshop
 ---
 
 ## Important Dates
