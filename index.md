@@ -9,14 +9,6 @@ share-description: LLM4Sec Workshop
 {: style="text-align: center"}
 **November 12, 2025 - Washington, USA**
 
-<!--
-{: style="text-align: center"}
-## LLM4Sec @ [ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html)
-
-{: style="text-align: center"}
-## Workshop on the use of Large Language Models for Cybersecurity
--->
-
 {:style="text-align:center;"}
 ![alt text](assets/img/sfondo.jpg){:style="width: 70%;}
 
