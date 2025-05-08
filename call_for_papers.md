@@ -34,7 +34,6 @@ Submission site: [ https://wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.p
 
 
 ## CFP
-
 {: style="text-align: justify"}
 Large Language Models (LLMs) are widely used for their exceptional ability in performing natural language processing applications like question answering, text completion, and text translation, to name a few. These capabilities enable their use in several domains such as customer support and interaction, content creation, editing and proofreading, sentiment analysis, etc. Besides the natural language, LLMs can generate and manipulate sequences of tokens of any kind, acting as boxes into which human knowledge can be compressed and then extracted when necessary. Owing to this, LLMs can be used to solve a wide range of problems and have been increasingly incorporated into several software frameworks. Among the others, their adoption to advance in the field of cyber security is gaining momentum. As a matter of fact, LLMs have been employed to expose and remediate security flaws, generate secure code and test cases, detect vulnerable or malicious code, and verify the integrity, confidentiality, and reliability of data. Interesting results have been presented so far, but the research in this area is still in its early stages, and it has the potential to produce further significant findings.
 
@@ -77,8 +76,3 @@ Topics of interest include, but are not limited to:
 - Manuscripts must be submitted electronically through the online submission system: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.php?subarea=S](https://wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.php?subarea=S){:target="_blank"}
 - Accepted papers will be included in the ICDM Workshop Proceedings (separate from ICDM Main Conference Proceedings), and each workshop paper requires a full registration.
 - At least one author of each accepted paper must complete the registration and present the paper at the workshop for it to be included in the proceedings and program. Registration link and fees can be found at [https://www3.cs.stonybrook.edu/~icdm2025/registration.html](https://www3.cs.stonybrook.edu/~icdm2025/registration.html){:target="_blank"}
-
-
-## Further Information
-{: style="text-align: justify"}
-For queries regarding the LLM4Sec Workshop, please contact antonino.rullo@icar.cnr.it
