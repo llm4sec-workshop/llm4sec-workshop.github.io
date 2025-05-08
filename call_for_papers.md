@@ -8,19 +8,19 @@ share-description: LLM4Sec Workshop
 
 <table>
   <tbody>
-    <tr style="background-color:#18191a; color:#F4F4F4">
+    <tr style="background-color:#FFFFFF; color:#404040">
       <td>Paper Submission Deadline</td>
       <td>August 29, 2025</td>
     </tr>
-    <tr style="background-color:#242526; color:#F4F4F4">
+    <tr style="background-color:#FFFFFF; color:#404040">
       <td>Notification to authors</td>
       <td>September 15, 2025</td>
     </tr>
-    <tr style="background-color:#18191a; color:#F4F4F4">
+    <tr style="background-color:#FFFFFF; color:#404040">
       <td>Camera-ready versions</td>
       <td>September 25, 2025</td>
     </tr>
-    <tr style="background-color:#18191a; color:#F4F4F4">
+    <tr style="background-color:#FFFFFF; color:#404040">
       <td>Workshop date</td>
       <td>November 12, 2025</td>
     </tr>
