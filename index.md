@@ -7,8 +7,6 @@ share-description: LLM4Sec Workshop
 ![logo](assets/img/logo.jpg){:class="img-responsive" style="width: 70%; display:block; margin-right:auto; margin-left:auto;}
 
 {: style="text-align: center"}
-**Workshop on the use of Large Language Models for Cybersecurity**
-{: style="text-align: center"}
 **November 12, 2025 - Washington, USA**
 
 <!--
