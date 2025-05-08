@@ -34,13 +34,13 @@ Submission site: [ https://wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.p
 
 
 ## CFP
-{: style="text-align: justify;"}
+{: style="text-align: justify"}
 Large Language Models (LLMs) are widely used for their exceptional ability in performing natural language processing applications like question answering, text completion, and text translation, to name a few. These capabilities enable their use in several domains such as customer support and interaction, content creation, editing and proofreading, sentiment analysis, etc. Besides the natural language, LLMs can generate and manipulate sequences of tokens of any kind, acting as boxes into which human knowledge can be compressed and then extracted when necessary. Owing to this, LLMs can be used to solve a wide range of problems and have been increasingly incorporated into several software frameworks. Among the others, their adoption to advance in the field of cyber security is gaining momentum. As a matter of fact, LLMs have been employed to expose and remediate security flaws, generate secure code and test cases, detect vulnerable or malicious code, and verify the integrity, confidentiality, and reliability of data. Interesting results have been presented so far, but the research in this area is still in its early stages, and it has the potential to produce further significant findings.
 
-{: style="text-align: justify;"}
+{: style="text-align: justify"}
 This workshop aims to stimulate research on LLM-based solutions for security and privacy. We invite both academic and industrial researchers to submit research papers as either original works, discussion papers, or excerpt of published articles.
 
-{: style="text-align: justify;"}
+{: style="text-align: justify"}
 Topics of interest include, but are not limited to:
 {: style="text-align: justify"}
 - Secure code generation
@@ -70,7 +70,7 @@ Topics of interest include, but are not limited to:
 
 
 ## Submission guidelines
-{: style="text-align: justify;"}
+{: style="text-align: justify"}
 - Authors are invited to submit original papers that have not been published elsewhere and are not currently under consideration for another journal, conference, or workshop.
 - Submissions must be a PDF file limited to a maximum of ten (10) pages in the IEEE 2-column format ([https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html){:target="_blank"}), including the bibliography and any appendices. Submissions longer than 10 pages will be rejected without review. All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the conference, originality, significance, and clarity.
 - Manuscripts must be submitted electronically through the online submission system: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.php?subarea=S](https://wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.php?subarea=S){:target="_blank"}
