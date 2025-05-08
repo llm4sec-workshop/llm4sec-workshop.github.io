@@ -4,7 +4,7 @@ share-description: LLM4Sec Workshop
 ---
 
 {:style="text-align:center;"}
-![logo](assets/img/logo.jpg){:class="img-responsive" style="width: 80%; display:block; margin-right:auto; margin-left:auto;}
+![logo](assets/img/logo.jpg){:class="img-responsive" style="width: 70%; display:block; margin-right:auto; margin-left:auto;}
 
 {: style="text-align: center"}
 ## Workshop on the use of Large Language Models for Cybersecurity
