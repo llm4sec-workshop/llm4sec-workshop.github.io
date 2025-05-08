@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizers
-share-description: CheckMATE 2025 Workshop @ ACM CCS
+share-description: LLM4Sec Workshop
 ---
 
 ## Chairs
