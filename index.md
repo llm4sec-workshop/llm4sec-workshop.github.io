@@ -1,6 +1,6 @@
 ---
 layout: page
-share-description: CheckMATE 2025 Workshop @ ACM CCS
+share-description: LLM4Sec Workshop
 ---
 
 {:style="text-align:center;"}
@@ -8,22 +8,18 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 
 <!--
 {: style="text-align: center"}
-## CheckMATE @ [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2024/)
+## LLM4Sec @ [ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html)
 
 {: style="text-align: center"}
-## Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks
+## Workshop on the use of Large Language Models for Cybersecurity
 -->
 
-{: style="text-align: center"}
-The CheckMATE workshop will be co-located with the\
- [ACM Conference on Computer and Communications Security (CCS) 2025](https://www.sigsac.org/ccs/CCS2025/){:target="_blank"}
+{:style="text-align:center;"}
+![alt text](assets/img/sfondo.jpg)
 
 {: style="text-align: center"}
-**October 17, 2025 - Taipei, Taiwan**
+The LLM4Sec workshop will be co-located with the\
+[IEEE Intrnational Conference on Data Mining (ICDM) 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html){:target="_blank"}
 
-{: style="text-align: justify"}
-MATE (Man-At-The-End) is an attacker model where an adversary has access to the target software and/or hardware environment of his victim and the ability to observe and modify it in order to extract sensitive information or secrets. This information could include cryptographic keys, configuration information, etc. Possible goals of an attack might include compromising code integrity, inserting backdoors, among many others. Typical examples of such scenarios are an attack on a stolen smartphone or against software leveraging protection to offer premium content and/or features such as paid TV channels.
-
-
-{: style="text-align: justify"}
-The main focus of CheckMATE is on new models and techniques to defend software from tampering, reverse engineering, and piracy as well as to the development of new attack strategies that highlight the need of more complete defenses.
+{: style="text-align: center"}
+**November 12, 2025 - Washington, USA**
