@@ -15,3 +15,9 @@ share-description: LLM4Sec Workshop
 {: style="text-align: center"}
 The LLM4Sec workshop will be co-located with the\
 [IEEE Intrnational Conference on Data Mining (ICDM) 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html){:target="_blank"}
+
+{: style="text-align: center"}
+Sponsored by
+
+{:style="text-align:center;"}
+![alt text](assets/img/serics.png){:style="width: 70%;}
