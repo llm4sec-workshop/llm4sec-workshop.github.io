@@ -28,6 +28,7 @@ share-description: LLM4Sec Workshop
 - Michele Ianni, Università della Calabria, Italy
 - Zhengjie Ji, Virginia Tech, USA
 - Nan Jiang, Purdue University, USA
+- Mudita Khurana, Airbnb, USA
 - Mohammed Latif Siddiq, University of Notre Dame, France
 - Taehyun Lee, Seoul National University, South Korea
 - Yeting Li, Chinese Academy of Sciences, China
