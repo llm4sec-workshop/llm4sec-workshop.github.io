@@ -15,6 +15,7 @@ share-description: LLM4Sec Workshop
 
 - Baleegh Ahmad, New York University, USA
 - Annalisa Appice, University of Bari Aldo Moro, Italy
+- Akshata Bhat, Amazon AGI, USA
 - Giacomo Benedetti, CNR – IMATI, Italy
 - Carlos Catania, Universidad Nacional de Cuyo, Argentina
 - Tianyu Chen, Microsoft Research Asia 
