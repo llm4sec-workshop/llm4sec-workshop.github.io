@@ -39,6 +39,7 @@ share-description: LLM4Sec Workshop
 - Yu-Yang Liu, Peking University, China
 - Thibaud Lutellier, University of Alberta, Canada
 - Wojciech Mazurczyk, Warsaw University of Technology, Poland
+- Surendra Narang, Palo Alto Networks, USA
 - Paarth Neekhara, Nvidia, USA
 - Antonino Nocera, University of Pavia, Italy
 - Sudipta Paria, University of Florida, USA
