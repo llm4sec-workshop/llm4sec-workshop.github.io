@@ -24,6 +24,7 @@ share-description: LLM4Sec Workshop
 - Moumita Das Purba, University of North Carolina, USA
 - Arpita Ghosh, University of North Carolina at Charlotte, USA
 - Zhaopeng Gu, Chinese Academy of Sciences, China
+- Venkata Gopi, Salesforce, USA
 - Andreas Happe, Technical University of Vienna, Austria
 - Iqbal H. Sarker, Edith Cowan University, Australia
 - Michele Ianni, Università della Calabria, Italy
