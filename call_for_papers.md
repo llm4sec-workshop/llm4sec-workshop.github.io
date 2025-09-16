@@ -11,6 +11,7 @@ share-description: LLM4Sec Workshop
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Paper Submission Deadline</td>
       <td>August 29, 2025</td>
+      <td></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Notification to authors</td>
