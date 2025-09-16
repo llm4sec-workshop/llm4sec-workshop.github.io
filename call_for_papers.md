@@ -14,8 +14,8 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Notification to authors</td>
-      <td>~~September~~ 15, 2025 ~~</td>
-      <td>September 18, 2025</td>
+      <td>September 15, 2025</td>
+      <td>new: September 18, 2025</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Camera-ready versions</td>
