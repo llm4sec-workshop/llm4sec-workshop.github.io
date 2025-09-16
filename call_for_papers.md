@@ -21,10 +21,12 @@ share-description: LLM4Sec Workshop
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Camera-ready versions</td>
       <td>September 25, 2025</td>
+      <td></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Workshop date</td>
       <td>November 12, 2025</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
