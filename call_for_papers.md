@@ -34,7 +34,7 @@ share-description: LLM4Sec Workshop
 {: style="text-align: justify"}
 *Note*: _all deadlines are Anywhere On Earth (AOE) time_
 {: style="text-align: justify"}
-Submission site: [ https://wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.php?subarea=S]( https://wi-lab.com/cyberchair/2025/icdm25/scripts/ws_submit.php?subarea=S){:target="_blank"}
+Submission site: [ https://ieeecps.org/cps/v2/auth/login?ak=1&pid=24XmCKZ1gAf1u24iyCTGnr]( https://ieeecps.org/cps/v2/auth/login?ak=1&pid=24XmCKZ1gAf1u24iyCTGnr){:target="_blank"}
 
 
 ## CFP
