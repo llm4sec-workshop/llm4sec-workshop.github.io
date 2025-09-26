@@ -25,7 +25,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Workshop date</td>
-      <td>November 12, 2025</td>
+      <td>November 12, 2025 (tentative)</td>
       <td></td>
     </tr>
   </tbody>
