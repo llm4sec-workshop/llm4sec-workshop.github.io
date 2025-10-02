@@ -7,7 +7,7 @@ share-description: LLM4Sec Workshop
 ![logo](assets/img/logo.jpg){:class="img-responsive" style="width: 70%; display:block; margin-right:auto; margin-left:auto;}
 
 {: style="text-align: center"}
-**November 12, 2025 (tentative) - Washington DC, USA**
+**November 13, 2025 - Washington DC, USA**
 
 {:style="text-align:center;"}
 ![alt text](assets/img/sfondo.jpg){:style="width: 70%;}
