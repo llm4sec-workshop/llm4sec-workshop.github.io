@@ -10,7 +10,9 @@ share-description: LLM4Sec Workshop
   <tbody>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>10:30 am</td>
-      <td>Welcome Message and Opening Remarks</td>
+      <td>{: style="text-align: justify"}
+Welcome Message and Opening Remarks
+{: style="text-align: justify"}</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td></td>
