@@ -10,10 +10,7 @@ share-description: LLM4Sec Workshop
   <tbody>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>10:30 am</td>
-      <td>{: style="text-align: justify"}
-Welcome Message and Opening Remarks
-{: style="text-align: justify"}</td>
-    </tr>
+      <td>Welcome Message and Opening Remarks</tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td></td>
       <td>Session 1 - Autonomous and Multi-agent Systems for Cyber Defense</td>
