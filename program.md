@@ -13,7 +13,7 @@ share-description: LLM4Sec Workshop
       <td>Welcome Message and Opening Remarks</tr>
     <tr style="background-color:#FFFFFF; color:#404050">
       <td></td>
-      <td>Session 1 - Autonomous and Multi-agent Systems for Cyber Defense</td>
+      <td><b>Session 1 - Autonomous and Multi-agent Systems for Cyber Defense</b></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>10:40 am</td>
