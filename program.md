@@ -18,7 +18,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>10:40 am</td>
-      <td>AutoBnB-RAG: Enhancing Multi-Agent Incident Response with Retrieval-Augmented Generation</td>
+      <td>AutoBnB-RAG: Enhancing Multi-Agent Incident Response with Retrieval-Augmented Generation <i>Zefang Liu, Arman Anwar</i></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>11:05 am</td>
