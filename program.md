@@ -10,10 +10,10 @@ share-description: LLM4Sec Workshop
   <tbody>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>10:30 am</td>
-      <td>*Welcome Message and Opening Remarks*</tr>
+      <td>Welcome Message and Opening Remarks</tr>
     <tr style="background-color:#FFFFFF; color:#404050">
       <td></td>
-      <td>**Session 1 - Autonomous and Multi-agent Systems for Cyber Defense**</td>
+      <td>Session 1 - Autonomous and Multi-agent Systems for Cyber Defense</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>10:40 am</td>
@@ -33,7 +33,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404050">
       <td></td>
-      <td>**Session 2 - Generative and Analytical AI for Vulnerability Discovery**</td>
+      <td>Session 2 - Generative and Analytical AI for Vulnerability Discovery</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>1:30 pm</td>
@@ -49,11 +49,11 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>2:35 pm</td>
-      <td>*short break*</td>
+      <td>short break</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404050">
       <td></td>
-      <td>**Session 3 - Advanced Malware and Attack Detection through LLMs**</td>
+      <td>Session 3 - Advanced Malware and Attack Detection through LLMs</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>2:45 pm</td>
@@ -69,11 +69,11 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>4:00 pm</td>
-      <td>*Coffee break*</td>
+      <td>Coffee break</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404050">
       <td></td>
-      <td>**Session 4 - LLM-Augmented Intelligence, Formal Reasoning, and Secure Communication**</td>
+      <td>Session 4 - LLM-Augmented Intelligence, Formal Reasoning, and Secure Communication</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>4:30 pm</td>
@@ -89,7 +89,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>5:35 pm</td>
-      <td>*Closing remarks*</td>
+      <td>Closing remarks</td>
     </tr>
   </tbody>
 </table>
