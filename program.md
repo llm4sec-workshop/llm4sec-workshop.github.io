@@ -29,7 +29,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>12:00 am</td>
-      <td>*Lunch break*</td>
+      <td>Lunch break</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404050">
       <td></td>
