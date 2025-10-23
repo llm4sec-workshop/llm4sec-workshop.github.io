@@ -66,7 +66,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>3:30 pm</td>
-      <td>SBAN: A Multi-Dimensional Dataset for Pre-Training LLMs and Software Code Mining - <i>Hamed Jelodar, Mohammad Meymani, Samita Bai, and Roozbeh Razavi-Far</i></i></td>
+      <td>SBAN: A Multi-Dimensional Dataset for Pre-Training LLMs and Software Code Mining - <i>Hamed Jelodar, Mohammad Meymani, Samita Bai, Roozbeh Razavi-Far</i></i></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>4:00 pm</td>
@@ -86,7 +86,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>5:20 pm</td>
-      <td>MISPerer: Democratizing Threat Intelligence using Large Language Models (short paper) - <i>Philippe Zotz and Beltran Fiz</i></td>
+      <td>MISPerer: Democratizing Threat Intelligence using Large Language Models (short paper) - <i>Philippe Zotz, Beltran Fiz</i></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>5:35 pm</td>
