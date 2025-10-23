@@ -82,7 +82,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>4:55 pm</td>
-      <td>Benchmarking LLMs for Threat Level Determination - <i>Han Wang, Murathan Kurfalı, Alfonso Iacovazzi</td></td>
+      <td>Benchmarking LLMs for Threat Level Determination - <i>Han Wang, Murathan Kurfalı, Alfonso Iacovazzi</i></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>5:20 pm</td>
