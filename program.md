@@ -10,11 +10,11 @@ share-description: LLM4Sec Workshop
   <tbody>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>10:30 am</td>
-      <td><i>Welcome Message and Opening Remarks</i></td>
+      <td><i>Welcome Message and Opening Remarks (Antonino Rullo)</i></td>
     </tr>
     <tr style="background-color:#D3D3D3; color:#404040">
       <td></td>
-      <td><b>Session 1 - Autonomous and Multi-agent Systems for Cyber Defense</b></td>
+      <td><b>Session 1 - Autonomous and Multi-agent Systems for Cyber Defense (session chair Antonino Rullo)</b></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>10:40 am</td>
@@ -34,7 +34,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#D3D3D3; color:#404040">
       <td></td>
-      <td><b>Session 2 - Generative and Analytical AI for Vulnerability Discovery</b></td>
+      <td><b>Session 2 - Generative and Analytical AI for Vulnerability Discovery (session chair Zefang Liu)</b></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>1:30 pm</td>
@@ -90,7 +90,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>5:35 pm</td>
-      <td><i>Closing remarks</i></td>
+      <td><i>Closing remarks (Antonino Rullo)</i></td>
     </tr>
   </tbody>
 </table>
