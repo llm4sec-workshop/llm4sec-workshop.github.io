@@ -54,7 +54,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#D3D3D3; color:#404040">
       <td></td>
-      <td><b>Session 3 - Advanced Malware and Attack Detection through LLMs</b></td>
+      <td><b>Session 3 - Advanced Malware and Attack Detection through LLMs (session chair Antonino Rullo)</b></td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>2:45 pm</td>
