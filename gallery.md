@@ -5,4 +5,4 @@ share-description: LLM4Sec Workshop
 ---
 
 {:style="text-align:center;"}
-![alt text](assets/img/LLM4Sec2025.jpg){:style="width: 70%;}
+![logo](assets/img/LLM4Sec2025.jpg){:class="img-responsive" style="width: 70%; display:block; margin-right:auto; margin-left:auto;}
