@@ -10,7 +10,8 @@
 ############################
 
 # Name of website
-title: LLM4Sec - Workshop on the use of Large Language Models for Cybersecurity
+# title: LLM4Sec - Workshop on the use of Large Language Models for Cybersecurity
+title: LLM4Sec Workshop
 
 # Your name to show in the footer
 author: LLM4Sec Workshop
@@ -111,7 +112,7 @@ share-links-active:
 #url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: false
+title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
