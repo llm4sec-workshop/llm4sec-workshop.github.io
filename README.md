@@ -1,1 +1,1 @@
-CheckMATE workshop @ ACM CCS 2025
+LLM4Sec workshop @ ESORICS 2026
