@@ -7,17 +7,11 @@ share-description: LLM4Sec Workshop
 ![logo](assets/img/logo.jpg){:class="img-responsive" style="width: 70%; display:block; margin-right:auto; margin-left:auto;}
 
 {: style="text-align: center"}
-**November 13, 2025 - Washington DC, USA**
+**September 14, 2026 - Rome, Italy**
 
 {:style="text-align:center;"}
-![alt text](assets/img/sfondo.jpg){:style="width: 70%;}
+![alt text](assets/img/sfondo_roma.jpg){:style="width: 70%;}
 
 {: style="text-align: center"}
-The LLM4Sec workshop will be co-located with the\
-[IEEE International Conference on Data Mining (ICDM) 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html){:target="_blank"}
-
-{: style="text-align: center"}
-Sponsored by
-
-{:style="text-align:center;"}
-![alt text](assets/img/serics.png){:style="width: 70%;}
+The LLM4Sec Workshop will be co-located with the\
+[31st European Symposium on Research in Computer Security (ESORICS) 2026](https://sites.google.com/di.uniroma1.it/esorics2026/){:target="_blank"}
