@@ -28,12 +28,12 @@ author: LLM4Sec Workshop
 #  Author's home: "https://deanattali.com"
 
 navbar-links:
-  Home: "index"
+  Home: "index_2025"
   #History: "history"
-  Program: "program"
-  Call for Papers: "call_for_papers"
-  Organizers: "organizers"
-  Gallery: "gallery"
+  Program: "program_2025"
+  Call for Papers: "call_for_papers_2025"
+  Organizers: "organizers_2025"
+  Gallery: "gallery_2025"
 
 ################
 # --- Logo --- #
