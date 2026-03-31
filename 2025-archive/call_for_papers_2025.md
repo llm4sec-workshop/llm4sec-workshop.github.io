@@ -2,6 +2,12 @@
 layout: page
 title: Call for Papers
 share-description: LLM4Sec Workshop
+navbar-links:
+  Home: "/2025-archive/index_2025"
+  Program: "/2025-archive/program_2025"
+  Call For Papers: "/2025-archive/call_for_papers_2025"
+  Organizers: "/2025-archive/organizers_2025"
+  Gallery: "/2025-archive/gallery_2025"
 ---
 
 ## Important Dates
