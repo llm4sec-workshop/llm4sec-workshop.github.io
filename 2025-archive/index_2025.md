@@ -1,7 +1,7 @@
 ---
 layout: page
 share-description: LLM4Sec Workshop
-permalink: /2025-archive/index/
+permalink: /2025-archive/index_2025/
 ---
 
 {:style="text-align:center;"}
