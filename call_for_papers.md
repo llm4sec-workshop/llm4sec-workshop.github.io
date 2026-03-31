@@ -76,7 +76,7 @@ Topics of interest include, but are not limited to:
 Authors are invited to submit original papers that have not been published elsewhere and are not currently under consideration for another journal, conference, or workshop.
 
 The PC Chairs strongly advise authors to pay careful attention to the following four points:
-- use the official LNCS template
+- use the official ([https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](LNCS template){:target="_blank"})
 - do not modify the original margins of the template;
 - do not move substantial sections of the paper to the appendix; the paper must be self-contained within the 16-page limit;
 - strictly respect the page limits.
