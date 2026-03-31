@@ -1,23 +1,16 @@
 ---
 layout: page
 share-description: LLM4Sec Workshop
-permalink: /2025-archive/index_2025/
-navbar-links:
-  Home: "/2025-archive/index_2025"
-  Program: "/2025-archive/program_2025"
-  Call For Papers: "/2025-archive/call_for_papers_2025"
-  Organizers: "/2025-archive/organizers_2025"
-  Gallery: "/2025-archive/gallery_2025"
 ---
 
 {:style="text-align:center;"}
-![logo](../assets/img/logo.jpg){:class="img-responsive" style="width: 70%; display:block; margin-right:auto; margin-left:auto;}
+![logo](assets/img/logo.jpg){:class="img-responsive" style="width: 70%; display:block; margin-right:auto; margin-left:auto;}
 
 {: style="text-align: center"}
 **November 13, 2025 - Washington DC, USA**
 
 {:style="text-align:center;"}
-![alt text](../assets/img/sfondo.jpg){:style="width: 70%;}
+![alt text](assets/img/sfondo.jpg){:style="width: 70%;}
 
 {: style="text-align: center"}
 The LLM4Sec workshop will be co-located with the\
@@ -27,4 +20,4 @@ The LLM4Sec workshop will be co-located with the\
 Sponsored by
 
 {:style="text-align:center;"}
-![alt text](../assets/img/serics.png){:style="width: 70%;}
+![alt text](assets/img/serics.png){:style="width: 70%;}
