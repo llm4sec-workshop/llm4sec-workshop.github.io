@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: History
 share-description: LLM4Sec Workshop
 ---
 
