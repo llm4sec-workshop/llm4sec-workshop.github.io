@@ -71,12 +71,28 @@ Topics of interest include, but are not limited to:
 - Automated security policy generation
 - Predictive analytics
 - Decision support
+- Local/lightweight vs. global models
+- Practical applications, use-cases, lessons-learnt
 
 
 ## Submission guidelines
 {: style="text-align: justify"}
-- Authors are invited to submit original papers that have not been published elsewhere and are not currently under consideration for another journal, conference, or workshop.
-- Submissions must be a PDF file limited to a maximum of eight (8) pages (plus 2 extra pages for bibliography and any appendices) in the IEEE 2-column format ([https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html){:target="_blank"}), including the bibliography and any appendices. Submissions longer than 10 pages will be rejected without review. All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity.
-- Manuscripts must be submitted electronically through the online submission system: [https://ieeecps.org/cps/v2/auth/login?ak=1&pid=24XmCKZ1gAf1u24iyCTGnr](https://ieeecps.org/cps/v2/auth/login?ak=1&pid=24XmCKZ1gAf1u24iyCTGnr){:target="_blank"}
-- Accepted papers will be included in the ICDM Workshop (ICDMW) proceedings (separate from ICDM Main Conference Proceedings), published by the IEEE Computer Society Press in IEEExplore and indexed in Scopus.
-- At least one author of each accepted paper must complete the registration and present the paper at the workshop for it to be included in the proceedings and program. Registration link and fees can be found at [https://www3.cs.stonybrook.edu/~icdm2025/registration.html](https://www3.cs.stonybrook.edu/~icdm2025/registration.html){:target="_blank"}
+Authors are invited to submit original papers that have not been published elsewhere and are not currently under consideration for another journal, conference, or workshop.
+
+The PC Chairs strongly advise authors to pay careful attention to the following four points:
+- use the official LNCS template
+- do not modify the original margins of the template;
+- do not move substantial sections of the paper to the appendix; the paper must be self-contained within the 16-page limit;
+- strictly respect the page limits.
+
+Submitted papers must comply with the LNCS template at the time of submission. Submitted papers should be at most 16 pages (using 10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the paper should be intelligible without them. All submissions must be written in English. 
+
+Submissions must be uploaded to the following EasyChair website: ([https://easychair.org/conferences/?conf=esorics2026](https://easychair.org/conferences/?conf=esorics2026){:target="_blank"})
+
+Only PDF files will be accepted. Submissions are not anonymous. The review process is single-blind, meaning that reviewers remain anonymous, while authors and their affiliations are disclosed. Submissions not meeting these guidelines risk rejection without consideration of their merits. 
+
+Authors of accepted papers must agree with Springer LNCS copyright and are requested to ensure that their papers are presented at the conference, and to complete a full registration for conference attendance.
+
+Accepted papers will be included in the workshops proceedings (separate from ESORICS Main Conference Proceedings), published by Springer LNCS.
+
+At least one author of each accepted paper must complete the registration and present the paper at the workshop _in person_ for it to be included in the proceedings and program. Registration link and fees can be found at [https://sites.google.com/di.uniroma1.it/esorics2026/attend/registration?authuser=0](https://sites.google.com/di.uniroma1.it/esorics2026/attend/registration?authuser=0){:target="_blank"}
