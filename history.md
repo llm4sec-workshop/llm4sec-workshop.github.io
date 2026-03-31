@@ -44,5 +44,5 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 
 - [CheckMATE 2021](https://checkmate.isi.edu/), co-located with ACM CCS
 - [CheckMATE 2022](https://www.cct.lsu.edu/~checkmate/), co-located with ACM CCS
-- [CheckMATE 2024](https://llm4sec-workshop.github.io/2025-archive/index), co-located with ACM CCS
+- [CheckMATE 2024](https://llm4sec-workshop.github.io/2025-archive/index_2025), co-located with ACM CCS
 
