@@ -10,23 +10,19 @@ share-description: LLM4Sec Workshop
   <tbody>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Paper Submission Deadline</td>
-      <td>August 29, 2025</td>
-      <td></td>
+      <td>TBA</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Notification to authors</td>
-      <td>September 15, 2025</td>
-      <td>extended: September 18, 2025</td>
+      <td>TBA</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Camera-ready versions</td>
-      <td>September 25, 2025</td>
-      <td>extended: October 5, 2025</td>
+      <td>TBA</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Workshop date</td>
-      <td>November 13, 2025</td>
-      <td></td>
+      <td>September 14, 2026</td>
     </tr>
   </tbody>
 </table>
@@ -34,7 +30,7 @@ share-description: LLM4Sec Workshop
 {: style="text-align: justify"}
 *Note*: _all deadlines are Anywhere On Earth (AOE) time_
 {: style="text-align: justify"}
-Submission site: [ https://ieeecps.org/cps/v2/auth/login?ak=1&pid=24XmCKZ1gAf1u24iyCTGnr]( https://ieeecps.org/cps/v2/auth/login?ak=1&pid=24XmCKZ1gAf1u24iyCTGnr){:target="_blank"}
+Submission site: ([https://easychair.org/conferences/?conf=esorics2026](https://easychair.org/conferences/?conf=esorics2026){:target="_blank"})
 
 
 ## CFP
