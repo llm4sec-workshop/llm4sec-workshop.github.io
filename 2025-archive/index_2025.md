@@ -2,7 +2,6 @@
 layout: page
 share-description: LLM4Sec Workshop
 permalink: /2025-archive/index_2025/
-title: 2025 History
 navbar-links:
   Home: "/2025-archive/index_2025"
   Program: "/2025-archive/program_2025"
