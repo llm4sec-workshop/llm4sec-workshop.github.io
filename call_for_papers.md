@@ -30,7 +30,7 @@ share-description: LLM4Sec Workshop
 {: style="text-align: justify"}
 *Note*: _all deadlines are Anywhere On Earth (AOE) time_
 {: style="text-align: justify"}
-Submission site: ([https://easychair.org/conferences/?conf=esorics2026](https://easychair.org/conferences/?conf=esorics2026){:target="_blank"})
+Submission site: [https://easychair.org/conferences/?conf=esorics2026](https://easychair.org/conferences/?conf=esorics2026){:target="_blank"}
 
 
 ## CFP
@@ -76,14 +76,14 @@ Topics of interest include, but are not limited to:
 Authors are invited to submit original papers that have not been published elsewhere and are not currently under consideration for another journal, conference, or workshop.
 
 The PC Chairs strongly advise authors to pay careful attention to the following four points:
-- use the official ([LNCS template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"})
+- use the official [LNCS template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}
 - do not modify the original margins of the template;
 - do not move substantial sections of the paper to the appendix; the paper must be self-contained within the 16-page limit;
 - strictly respect the page limits.
 
 Submitted papers must comply with the LNCS template at the time of submission. Submitted papers should be at most 16 pages (using 10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the paper should be intelligible without them. All submissions must be written in English. 
 
-Submissions must be uploaded to the following EasyChair website: ([https://easychair.org/conferences/?conf=esorics2026](https://easychair.org/conferences/?conf=esorics2026){:target="_blank"})
+Submissions must be uploaded to the following EasyChair website: [https://easychair.org/conferences/?conf=esorics2026](https://easychair.org/conferences/?conf=esorics2026){:target="_blank"}
 
 Only PDF files will be accepted. Submissions are not anonymous. The review process is single-blind, meaning that reviewers remain anonymous, while authors and their affiliations are disclosed. Submissions not meeting these guidelines risk rejection without consideration of their merits. 
 
