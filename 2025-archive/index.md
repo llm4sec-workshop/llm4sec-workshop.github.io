@@ -10,7 +10,7 @@ share-description: LLM4Sec Workshop
 **November 13, 2025 - Washington DC, USA**
 
 {:style="text-align:center;"}
-![alt text](/assets/img/sfondo.jpg){:style="width: 70%;}
+![alt text](../assets/img/sfondo.jpg){:style="width: 70%;}
 
 {: style="text-align: center"}
 The LLM4Sec workshop will be co-located with the\
@@ -20,4 +20,4 @@ The LLM4Sec workshop will be co-located with the\
 Sponsored by
 
 {:style="text-align:center;"}
-![alt text](/assets/img/serics.png){:style="width: 70%;}
+![alt text](../assets/img/serics.png){:style="width: 70%;}
