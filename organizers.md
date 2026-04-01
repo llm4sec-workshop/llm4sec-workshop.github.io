@@ -9,7 +9,7 @@ share-description: LLM4Sec Workshop
 - [Antonino Rullo](https://sites.google.com/d/1m6j__OgDRAWfREuqxibCKCL33dSQYKla/p/14MWYmnwYcy5vRYrVN3ycAAWfFbkoJcYZ/edit){:target="_blank"}, _ICAR CNR, Italy_
 - [Giuseppe Manco](https://gmanco.github.io/){:target="_blank"}, _ICAR CNR, Italy_
 - [Luca Caviglione](https://github.com/lucacav){:target="_blank"}, _IMATI CNR, Italy_
-- [Michal Choras](http://michal-choras.com/){:target="_blank"}, _PSB, Poland_
+- [Michal Choras](http://michal-choras.com/){:target="_blank"}, _PBS, Poland_
 
 
 ## Program Committee
