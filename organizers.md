@@ -13,7 +13,7 @@ share-description: LLM4Sec Workshop
 
 
 ## Program Committee
-
+TBA
 '
 - Annalisa Appice, University of Bari Aldo Moro, Italy
 - Akshata Bhat, Amazon AGI, USA
