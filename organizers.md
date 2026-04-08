@@ -13,6 +13,7 @@ share-description: LLM4Sec Workshop
 
 
 ## Program Committee
+<!-- This will not be visible on the page -->
 TBA
 {% comment %}
 - Annalisa Appice, University of Bari Aldo Moro, Italy
