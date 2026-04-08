@@ -14,8 +14,8 @@ share-description: LLM4Sec Workshop
 
 ## Program Committee
 TBA
-<!--
-- Annalisa Appice, University of Bari Aldo Moro, Italy
+[]: #
+(- Annalisa Appice, University of Bari Aldo Moro, Italy
 - Akshata Bhat, Amazon AGI, USA
 - Giacomo Benedetti, CNR – IMATI, Italy
 - Carlos Catania, Universidad Nacional de Cuyo, Argentina
@@ -50,5 +50,4 @@ TBA
 - Chenyuan Yang, University of Illinois Urbana-Champaign, USA
 - Jianxing Yu, Sun Yat-sen University, China
 - Cen Zhang, Georgia Institute of Technology, USA
-- Ying Zhang, Wake Forest University, USA
--->
+- Ying Zhang, Wake Forest University, USA)
