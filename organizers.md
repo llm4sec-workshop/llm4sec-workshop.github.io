@@ -14,7 +14,7 @@ share-description: LLM4Sec Workshop
 
 ## Program Committee
 
-- Annalisa Appice, University of Bari Aldo Moro, Italy
+'- Annalisa Appice, University of Bari Aldo Moro, Italy
 - Akshata Bhat, Amazon AGI, USA
 - Giacomo Benedetti, CNR – IMATI, Italy
 - Carlos Catania, Universidad Nacional de Cuyo, Argentina
@@ -45,7 +45,7 @@ share-description: LLM4Sec Workshop
 - Francesca Spezzano, Boise State University, USA
 - Veronica Valeros, Czech Technical University, Czech Republic
 - Steffen Wendzel, University of Ulm, Germany
-- Ferhat Yaman, AMD, USA
+- Ferhat Yaman, AMD, USA'
 - Chenyuan Yang, University of Illinois Urbana-Champaign, USA
 - Jianxing Yu, Sun Yat-sen University, China
 - Cen Zhang, Georgia Institute of Technology, USA
