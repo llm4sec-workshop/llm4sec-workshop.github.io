@@ -10,15 +10,15 @@ share-description: LLM4Sec Workshop
   <tbody>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Paper Submission Deadline</td>
-      <td>TBA</td>
+      <td>July 1, 2026</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Notification to authors</td>
-      <td>TBA</td>
+      <td>July 20, 2026</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Camera-ready versions</td>
-      <td>TBA</td>
+      <td>August 31, 2026</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Workshop date</td>
