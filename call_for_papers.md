@@ -89,6 +89,6 @@ Only PDF files will be accepted. Submissions are not anonymous. The review proce
 
 Authors of accepted papers must agree with Springer LNCS copyright and are requested to ensure that their papers are presented at the conference, and to complete a full registration for conference attendance.
 
-Accepted papers will be included in the workshops proceedings (separate from ESORICS Main Conference Proceedings), published by Springer LNCS.
+Accepted papers will be included in the workshops proceedings (separately from ESORICS Main Conference Proceedings), published by Springer LNCS.
 
 At least one author of each accepted paper must complete the registration and present the paper at the workshop _in person_ for it to be included in the proceedings and program. Registration link and fees can be found at [https://sites.google.com/di.uniroma1.it/esorics2026/attend/registration?authuser=0](https://sites.google.com/di.uniroma1.it/esorics2026/attend/registration?authuser=0){:target="_blank"}
