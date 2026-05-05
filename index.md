@@ -7,7 +7,7 @@ share-description: LLM4Sec Workshop
 ![logo](assets/img/logo.jpg){:class="img-responsive" style="width: 70%; display:block; margin-right:auto; margin-left:auto;}
 
 {: style="text-align: center"}
-**September 14, 2026 - Rome, Italy**
+**September 18, 2026 - Rome, Italy**
 
 {:style="text-align:center;"}
 ![alt text](assets/img/sfondo_roma.png){:style="width: 70%;}
