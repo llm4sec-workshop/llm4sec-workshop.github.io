@@ -13,42 +13,31 @@ share-description: LLM4Sec Workshop
 
 
 ## Program Committee
-TBA
-{% comment %}
-- Annalisa Appice, University of Bari Aldo Moro, Italy
-- Akshata Bhat, Amazon AGI, USA
 - Giacomo Benedetti, CNR – IMATI, Italy
+- Akshata Bhat, Amazon AGI, USA
+- Daniele Canavese, CNR, Italy
 - Carlos Catania, Universidad Nacional de Cuyo, Argentina
-- Tianyu Chen, Microsoft Research Asia 
-- Daiki Chiba, NTT Security Holdings Corporation, Japan
-- Jürgen Cito, TU Wien, Austria
-- Moumita Das Purba, University of North Carolina, USA
-- Zhaopeng Gu, Chinese Academy of Sciences, China
+- Xiang Cheng, Georgia Institute of Technology, USA
+- Daiki Chiba, Tokyo Metropolitan University, Japan
+- Erica Coppolillo, CNR, Italy
+- Daniela Gallo. CNR, Italy
 - Venkata Gopi, Salesforce, USA
-- Andreas Happe, Technical University of Vienna, Austria
 - Michele Ianni, Università della Calabria, Italy
 - Zhengjie Ji, Virginia Tech, USA
-- Nan Jiang, Purdue University, USA
 - Mudita Khurana, Airbnb, USA
+- Rafał Kozik, PBS University, Poland
 - Mohammed Latif Siddiq, University of Notre Dame, France
-- Yeting Li, Chinese Academy of Sciences, China
 - Puzhuo Liu, Tsinghua University, China
 - Thibaud Lutellier, University of Alberta, Canada
 - Wojciech Mazurczyk, Warsaw University of Technology, Poland
 - Surendra Narang, Palo Alto Networks, USA
 - Antonino Nocera, University of Pavia, Italy
-- Sudipta Paria, University of Florida, USA
+- Marek Pawlicki, PBS University, Poland
 - Jiaxing Qi, Beihang University, China
 - Rajat Sadhukhan, Indian Institute of Roorkee, India
-- P.V. Sai Charan, New York University, USA
+- P.V. Sai Charan, Indian Institute of Technology Tirupati, India
 - Gustavo Sandoval, New York University, USA
-- Edoardo Serra, Boise State University, USA
-- Francesca Spezzano, Boise State University, USA
-- Veronica Valeros, Czech Technical University, Czech Republic
-- Steffen Wendzel, University of Ulm, Germany
-- Ferhat Yaman, AMD, USA'
-- Chenyuan Yang, University of Illinois Urbana-Champaign, USA
-- Jianxing Yu, Sun Yat-sen University, China
-- Cen Zhang, Georgia Institute of Technology, USA
-- Ying Zhang, Wake Forest University, USA
-{% endcomment %}
+- Raja Sekhar Rao Dheekonda, Dreadnode, USA
+- Muris Sladić, Czech Technical University, Czech Republic
+- Arul Thileeban Sagayam, Bloomberg, USA
+- Ferhat Yaman, AMD, USA
