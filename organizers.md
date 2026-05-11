@@ -13,7 +13,7 @@ share-description: LLM4Sec Workshop
 
 
 ## Program Committee
-- Giacomo Benedetti, CNR – IMATI, Italy
+- Giacomo Benedetti, Vrije Universiteit Brussel, Belgium
 - Akshata Bhat, Amazon AGI, USA
 - Daniele Canavese, CNR, Italy
 - Carlos Catania, Universidad Nacional de Cuyo, Argentina
