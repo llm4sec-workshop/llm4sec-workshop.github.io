@@ -22,7 +22,6 @@ share-description: LLM4Sec Workshop
 - Erica Coppolillo, CNR, Italy
 - Daniela Gallo. CNR, Italy
 - Venkata Gopi, Salesforce, USA
-- Amir Hossain, CNR, Italy
 - Michele Ianni, Università della Calabria, Italy
 - Zhengjie Ji, Virginia Tech, USA
 - Mudita Khurana, Airbnb, USA
@@ -33,6 +32,7 @@ share-description: LLM4Sec Workshop
 - Wojciech Mazurczyk, Warsaw University of Technology, Poland
 - Surendra Narang, Palo Alto Networks, USA
 - Antonino Nocera, University of Pavia, Italy
+- Amirhossein Noshadi, CNR, Italy
 - Marek Pawlicki, PBS University, Poland
 - Jiaxing Qi, Beihang University, China
 - Rajat Sadhukhan, Indian Institute of Roorkee, India
