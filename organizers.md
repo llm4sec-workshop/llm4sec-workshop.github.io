@@ -33,6 +33,7 @@ share-description: LLM4Sec Workshop
 - Wojciech Mazurczyk, Warsaw University of Technology, Poland
 - Surendra Narang, Palo Alto Networks, USA
 - Antonino Nocera, University of Pavia, Italy
+- Amirhossein Noshadi, CNR, Italy
 - Marek Pawlicki, PBS University, Poland
 - Jiaxing Qi, Beihang University, China
 - Rajat Sadhukhan, Indian Institute of Roorkee, India
