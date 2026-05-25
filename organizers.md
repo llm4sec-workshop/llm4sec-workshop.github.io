@@ -41,4 +41,5 @@ share-description: LLM4Sec Workshop
 - Raja Sekhar Rao Dheekonda, Dreadnode, USA
 - Muris Sladić, Czech Technical University, Czech Republic
 - Arul Thileeban Sagayam, Bloomberg, USA
+- Silvia Lucia Sanna, CNR, Italy
 - Ferhat Yaman, AMD, USA
