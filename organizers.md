@@ -20,6 +20,7 @@ share-description: LLM4Sec Workshop
 - Xiang Cheng, Georgia Institute of Technology, USA
 - Daiki Chiba, Tokyo Metropolitan University, Japan
 - Erica Coppolillo, CNR, Italy
+- Venkatesh Dondapati, TD Securities, USA
 - Daniela Gallo. CNR, Italy
 - Venkata Gopi, Salesforce, USA
 - Michele Ianni, Università della Calabria, Italy
