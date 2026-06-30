@@ -31,6 +31,7 @@ share-description: LLM4Sec Workshop
 - Puzhuo Liu, Tsinghua University, China
 - Thibaud Lutellier, University of Alberta, Canada
 - Wojciech Mazurczyk, Warsaw University of Technology, Poland
+- Soumitra Merhotra, Autodesk, USA
 - Surendra Narang, Palo Alto Networks, USA
 - Antonino Nocera, University of Pavia, Italy
 - Amirhossein Noshadi, CNR, Italy
