@@ -23,7 +23,7 @@ share-description: LLM4Sec Workshop
 - Venkatesh Dondapati, TD Securities, USA
 - Daniela Gallo. CNR, Italy
 - Venkata Gopi, Salesforce, USA
-- Michele Ianni, Università della Calabria, Italy
+- Michele Ianni, University of Calabria, Italy
 - Zhengjie Ji, Virginia Tech, USA
 - Mudita Khurana, Airbnb, USA
 - Rafał Kozik, PBS University, Poland
@@ -44,4 +44,5 @@ share-description: LLM4Sec Workshop
 - Muris Sladić, Czech Technical University, Czech Republic
 - Arul Thileeban Sagayam, Bloomberg, USA
 - Silvia Lucia Sanna, CNR, Italy
+- Diego Soi, University of Cagliari, Italy
 - Ferhat Yaman, AMD, USA
