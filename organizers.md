@@ -14,13 +14,11 @@ share-description: LLM4Sec Workshop
 
 ## Program Committee
 - Giacomo Benedetti, Vrije Universiteit Brussel, Belgium
-- Akshata Bhat, Amazon AGI, USA
 - Daniele Canavese, CNR, Italy
 - Carlos Catania, Universidad Nacional de Cuyo, Argentina
 - Xiang Cheng, Georgia Institute of Technology, USA
 - Daiki Chiba, Tokyo Metropolitan University, Japan
 - Erica Coppolillo, CNR, Italy
-- Venkatesh Dondapati, TD Securities, USA
 - Daniela Gallo. CNR, Italy
 - Venkata Gopi, Salesforce, USA
 - Michele Ianni, University of Calabria, Italy
@@ -32,17 +30,13 @@ share-description: LLM4Sec Workshop
 - Thibaud Lutellier, University of Alberta, Canada
 - Wojciech Mazurczyk, Warsaw University of Technology, Poland
 - Soumitra Merhotra, Autodesk, USA
-- Surendra Narang, Palo Alto Networks, USA
-- Antonino Nocera, University of Pavia, Italy
 - Amirhossein Noshadi, CNR, Italy
 - Marek Pawlicki, PBS University, Poland
 - Jiaxing Qi, Beihang University, China
 - Rajat Sadhukhan, Indian Institute of Roorkee, India
 - P.V. Sai Charan, Indian Institute of Technology Tirupati, India
-- Gustavo Sandoval, New York University, USA
 - Raja Sekhar Rao Dheekonda, Dreadnode, USA
 - Muris Sladić, Czech Technical University, Czech Republic
 - Arul Thileeban Sagayam, Bloomberg, USA
 - Silvia Lucia Sanna, CNR, Italy
 - Diego Soi, University of Cagliari, Italy
-- Ferhat Yaman, AMD, USA
