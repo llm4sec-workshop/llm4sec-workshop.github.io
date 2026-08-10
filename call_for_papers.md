@@ -18,7 +18,7 @@ share-description: LLM4Sec Workshop
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Camera-ready versions</td>
-      <td>August 31, 2026</td>
+      <td>August 22, 2026</td>
     </tr>
     <tr style="background-color:#FFFFFF; color:#404040">
       <td>Workshop date</td>
