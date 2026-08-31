@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Program
+title: Workshop Program
 share-description: LLM4Sec Workshop
 ---
-
-## Workshop Program
 
 <table>
   <tbody>
